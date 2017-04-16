@@ -1,0 +1,8 @@
+
+Jeu d'infiltration rogue like, donjon utilisant la generation procedural.
+
+Step:
+-Basic Player controller
+-IA Path finder - vision 
+-Dammage
+-Hidding
